@@ -1,4 +1,4 @@
-var fs = require("fs");
+var fs = require('fs');
 var express = require('express');
 var buffer = Buffer(fs.readFileSync('index.html', 'utf-8');
 
